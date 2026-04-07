@@ -1,4 +1,4 @@
-# Yogesh76352
+# YogeshSonkar76352
 # Influencer Directory SaaS Platform
 
 🚀 A SaaS-style platform built with **Django + React**, featuring analytics, paywall integration, and professional UI.  
@@ -22,14 +22,17 @@
 
 
 ## 📊 GitHub Stats
-![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=YogeshSonkar76352&show_icons=true&theme=radical)
+![Yogesh's GitHub stats](https://github-readme-stats-stats-six-drab-30.vercel.app/api?username=YogeshSonkar76352&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YogeshSonkar76352&layout=compact&theme=radical)
+
+![Top Languages](github-readme-stats-six-drab-30.vercel.app/api/top-langs/?username=YogeshSonkar76352&layout=compact&theme=radical)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=YogeshSonkar76352&color=blue)
 
 ![Snake animation](https://github.com/YogeshSonkar76352/YogeshSonkar76352/blob/output/github-contribution-grid-snake.svg)
 
+## 📫 Connect
+[LinkedIn](#) | [Portfolio](#) | [Email](#)
 
 ## 🚀 Getting Started
 ```bash
