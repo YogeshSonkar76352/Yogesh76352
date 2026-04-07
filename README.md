@@ -22,10 +22,10 @@
 
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YogeshSonkar76352&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YogeshSonkar76352&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YogeshSonkar76352&show_icons=true&theme=radical&cache_seconds=10)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YogeshSonkar76352&layout=compact&theme=radical&cache_seconds=10)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=YogeshSonkar76352&color=blue)
 
