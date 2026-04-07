@@ -22,7 +22,7 @@
 
 
 ## 📊 GitHub Stats
-![Yogesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YogeshSonkar76352)](https://github.com/anuraghazra/github-readme-stats)
+![Yogesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YogeshSonkar76352&layout=compact&theme=radical)]
 
 ![Top Languages](github-readme-stats-six-drab-30.vercel.app/api/top-langs/?username=YogeshSonkar76352&layout=compact&theme=radical)
 
