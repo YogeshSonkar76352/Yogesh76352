@@ -15,9 +15,20 @@
 - **Frontend:** React, SCSS, Monaco Editor
 - **Analytics:** Power BI
 - **Deployment:** GitHub Actions
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-## 📸 Screenshots
-(Add screenshots or GIFs here)
+
+## 📊 GitHub Stats
+![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=YogeshSonkar76352&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YogeshSonkar76352&layout=compact&theme=radical)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=YogeshSonkar76352&color=blue)
+
+![Snake animation](https://github.com/YogeshSonkar76352/YogeshSonkar76352/blob/output/github-contribution-grid-snake.svg)
+
 
 ## 🚀 Getting Started
 ```bash
